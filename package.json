@@ -1,5 +1,5 @@
 {
-  "name": "drachtio-srf",
+  "name": "@audc/drachtio-srf",
   "version": "5.0.2",
   "description": "drachtio signaling resource framework",
   "main": "lib/srf.js",
